@@ -1,0 +1,28 @@
+form{
+    width: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 512px;
+    border: 2px black solid;
+    padding: 20px;
+}
+select{
+    height: 40px;
+    width: 350px;
+    margin-bottom: 20px;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(85, 85, 34);
+}
+button:hover{
+    background-color: yellowgreen;
+}
+
+

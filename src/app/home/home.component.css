@@ -1,0 +1,17 @@
+form{
+    width: 400px;
+    margin-top: 50px;
+    border: 2px black solid;
+    padding: 20px;
+    margin: 20px;
+}
+.block{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+
+}
+.logout:hover{
+    background-color: yellowgreen;
+}
+
